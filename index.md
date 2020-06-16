@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Da'Nae White 
+description: Da'Nae White is a Computer Science student with a concentration in Cyber Security at South Carolina State University 
 keywords: statistics, data analytics
 ---
 
