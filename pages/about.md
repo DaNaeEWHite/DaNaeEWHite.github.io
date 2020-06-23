@@ -19,7 +19,7 @@ As a woman of color, I will be entering an environment where Black, Latinx, and 
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/DANAEWHITE.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/DaNaeEWHite/DaNaeEWHite.github.io/blob/master/assets/DA%E2%80%99NAEWHITE.pdf)
 
 ---
 
