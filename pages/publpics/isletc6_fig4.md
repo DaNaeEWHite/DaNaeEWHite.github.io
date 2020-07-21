@@ -23,7 +23,7 @@ affects gene expression in mouse pancreatic islets.
 [![supplement](../icons16/supp-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/islet_chr6/FileS1.csv)
 [![data](../icons16/data-icon.png)](http://bit.ly/B6BTBR)
 
-![Tian et al. (2015) Fig 4](../../assets/bigpublpics/isletc6_fig4_lg.png)
+![Tian et al. (2015) Fig 4](../../assets/publpics/Screenshot4.png)
 
 **Figure 4**. &mdash; Fine-mapping of the islet chromosome 6
 eQTL. **A**: initial SNP genotypes of the 52 mice with
