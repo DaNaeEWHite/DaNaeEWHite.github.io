@@ -27,7 +27,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/Screenshot(15).png"" alt="Tian et
+        <img src="assets/publpics/Screenshot(15).png" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
@@ -35,7 +35,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/Screenshot(12).png"" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="assets/publpics/Screenshot(12).png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
