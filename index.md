@@ -8,10 +8,10 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/https://github.com/DaNaeEWHite/DaNaeEWHite.github.io/blob/master/assets/DA%E2%80%99NAEWHITE.pdf">cv</a></li>
+          <li><a href="https://github.com/DaNaeEWHite">github</a></li>
+          <li><a href="https://medium.com/@danae.white/the-golden-opportunity-352d497f6497">blog</a></li>
+          <li><a href="https://www.linkedin.com/in/da-nae-white-800541189/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
