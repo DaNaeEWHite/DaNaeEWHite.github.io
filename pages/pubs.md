@@ -22,7 +22,7 @@ description: Da'Nae White's publications
 ## <a name="Algorithms in a Nutshell"></a>Algorithms in a Nutshell
  {Creating robust software requires the use of efficient algorithms, but programmers seldom think about them until a problem occurs. This describes a large number of existing algorithms for solving a variety of problems.}
  
- ## <a name="Cyber Security: Concepts and cases"></a>Cyber Security: Concepts and cases
+## <a name="Cyber Security: Concepts and cases"></a>Cyber Security: Concepts and cases
  {Explains the basic ideas behind cyber security using real-world applications. There are numerous textbooks and professional reference titles that adopt a very formal and theoretical approach to explaining computer security}
  
 ## <a name="Introduction to Python"></a>Introduction to Python
