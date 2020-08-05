@@ -55,3 +55,22 @@ The advent of the information society is marked by the explosive penetration of 
 ## <a name= "Quantum computer science: an introduction"></a>Quantum computer science: an introduction
 In the 1990’s it was realized that quantum physics has some spectacular applications in computer science. This book is a concise introduction to quantum computation, developing the basic elements of this new branch of computational theory with assuming.
 
+## <a name= "The essence of artificial intelligence"></a>The essence of artificial intelligence
+Computing series that provides a concise, practical and uniform introduction to the core components of an undergraduate computer science degree.
+
+## <a name="Artificial intelligence and the creativity: An interdisciplinary approach"></a>Artificial intelligence and the creativity: An interdisciplinary approach
+An interdisciplinary approach discusses ideas related to artificial intelligence and computer science.
+
+
+## <a name="Advances in inductive logic programming"></a>Advances in inductive logic programming
+A new research area situated in machine learning and logic programming, two subfields of artificial intelligence.
+
+## <a name="Inductive logic programming: Theory and methods"></a>Inductive logic programming: Theory and methods
+A new discipline which investigates the inductive construction of first-order causal theories from examples and background knowledge. 
+
+## <a name="Data Structure and Algorithms with C"></a>Data Structure and Algorithms with C
+This book is a special lead to all who want to learn the data structure and their implementation. The implementations are explained with the help of algorithms and simple programming.
+
+## <a name="Computer networking for scientist"></a>Computer networking for scientist
+Scientific research has always relied on communication for gathering and providing information access to data for exchanging information; for holding discussions, meeting and seminars; for collaborating with widely dispersed researchers 
+
