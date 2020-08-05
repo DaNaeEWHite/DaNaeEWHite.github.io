@@ -1,20 +1,13 @@
 ---
 layout: page
 title: publications
-description: Ben Harvey's publications
+description: Da'Nae White's publications
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#book">book</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#conferences">conferences</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
         </ul>
     </div>
 </div>
@@ -31,12 +24,12 @@ description: Ben Harvey's publications
  
  ## <a name="Cyber Security: Concepts and cases"></a>Cyber Security: Concepts and cases
  {Explains the basic ideas behind cyber security using real-world applications. There are numerous textbooks and professional reference titles that adopt a very formal and theoretical approach to explaining computer security}
-
- ## <a name="Introduction to Python"></a>Introduction to Python
+ 
+## <a name="Introduction to Python"></a>Introduction to Python
  {easy to understand, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming.
 }
 
- ## <a name="Introduction to Java"></a>Introduction to Java
+## <a name="Introduction to Java"></a>Introduction to Java
  {this book covers the major topics in java programming, including programming structures, methods, object, classes, inheritance, graphics programming, applets, exception handling internationalization, and multithreading.}
 
 ## <a name="Introduction to CyberSecurity"></a>Introduction to CyberSecurity 
