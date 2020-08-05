@@ -40,8 +40,8 @@ The goals of this book is to share the art of hacking. Understanding hacking tec
 ## <a name="Fundamentals of Information System"></a>Fundamentals of Information System
 Gain a solid understanding of today’s fundamentals of information systems with the most current, concise overview.
 
-## <a name="Decision support and expert systems: Managerial perspectives"></a>Decision support and expert systems: Managerial perspectives
-A decision support system is a computer-based information system. More automated decision-making systems known as DMS
+## <a name=" Artificial Intelligence: applications to logical reasoning and historical research"></a> Artificial Intelligence: applications to logical reasoning and historical research
+This book is concerned with the teaching with the aid of a computer. It draws on ideas and experience from a wide range of disciplines including philosophy, social sciences, AI, and computer science.
 
 ## <a name="Decision support and expert systems: Managerial perspectives"></a>Decision support and expert systems: Managerial perspectives
 A decision support system is a computer-based information system. More automated decision-making systems known as DMS
