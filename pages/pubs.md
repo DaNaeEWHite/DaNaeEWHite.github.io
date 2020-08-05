@@ -22,12 +22,11 @@ description: Ben Harvey's publications
 
 #### <a name="book"></a>book
 
-## <a name="Data"></a>Data
-#### <a name="Government Open Data"></a>[data.gov.in](https://data.gov.in/)
-{Add description of data here}
+## <a name="Hacking the Art of Exploitation"></a>Hacking the Art of Exploitation
+#### (https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
+{Hacking is the art of creative problem solving, whether that means finding an unconventional solution to a difficult problem or exploiting holes in sloppy programming. 
+}
 
-[data.gov.in data example](http://groups.google.com/group/Rqtl-disc)
-[data repository](http://groups.google.com/group/Rqtl-disc)
 
 ---
 
